@@ -1,15 +1,63 @@
-# ABOUT ME
+# Hi there, I'm Ridho Alamsyah 👋
 
-I am a Demography and Civil Registration student with an interest and focus on population data, public policy, and improving the quality of public services. I believe that accurate and well-managed data is the foundation for formulating effective policies that are oriented towards community needs.During my studies, I developed competencies in survey instrument design and the interpretation of social and population data to support evidence-based decision-making. I also understand public service systems, particularly in the field of population administration.
+## About Me
+🎓 I’m a Demography and Civil Registration student passionate about Data Analytics, Public Policy, and Machine Learning  
+📊 I’m interested in Population Studies, Data Science, Statistical Analysis, and Social Research  
+🧠 Currently learning Machine Learning, Data Mining, and Data Visualization  
+📚 Working on research related to education inequality, population mobility, and demographic projection  
+💡 Interested in combining technology and public policy for data-driven decision making  
+🤝 Open to collaboration in Data Analysis, Research Projects, and Social Data Visualization  
+📫 How to reach me: your-email@gmail.com  
 
-I am accustomed to working systematically and am able to adapt to dynamic and interdisciplinary work environments. My academic experience and field activities have shaped me into a responsible individual with strong communication skills, capable of working independently or in a team.
+---
 
-Going forward, I am committed to contributing to the development of professional, transparent, and data-driven public policies and public services to support the improvement of community welfare.
+## Skills & Tools
+- Python (Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn)
+- SPSS & Statistical Analysis
+- Machine Learning & Clustering
+- Data Visualization
+- Survey & Social Research
+- Public Policy Analysis
+
+---
+
+## Research & Projects
+### 📌 Educational Quality Clustering in West Kalimantan
+Using K-Means Clustering to classify districts/cities based on educational indicators such as RLS, HLS, and APS.
+
+### 📌 Machine Learning for Demographic Projection
+Research on the potential use of Machine Learning algorithms for birth and mortality projection analysis in demographic studies.
+
+### 📌 Population Mobility Research
+Survey and analysis of youth mobility preferences in railway transportation systems.
+
+### 📌 Public Service Innovation
+Analysis of the “SAPU KUWAT” population administration service innovation for birth certificate accessibility.
+
+---
+
+## Organization & Academic Interests
+- Demography & Population Studies
+- Public Administration & Policy
+- Data Science for Social Impact
+- Quantitative Research
+- Social Statistics
+- Civic Data Innovation
+
+---
+
+## Currently Learning
+🌱 Deep Learning  
+🌱 Advanced Data Analytics  
+🌱 Geographic & Population Data Visualization  
+🌱 AI for Public Policy  
+
+---
+
+## Connect With Me
+- LinkedIn: https://www.linkedin.com/in/ridho-alamsyah-642945288/
+- GitHub: https://github.com/yourusername
 
 
-https://github.com/GHridhoalamsyah
-
-
-https://www.linkedin.com/in/ridho-alamsyah-642945288/
 
 I am currently seeking professional opportunities and connections. contact me via LinkedIn or email at ridhoalamsyahcilik@gmail.com
