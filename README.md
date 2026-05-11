@@ -6,7 +6,10 @@ I am accustomed to working systematically and am able to adapt to dynamic and in
 
 Going forward, I am committed to contributing to the development of professional, transparent, and data-driven public policies and public services to support the improvement of community welfare.
 
+
 https://github.com/GHridhoalamsyah
+
+
 https://www.linkedin.com/in/ridho-alamsyah-642945288/
 
 I am currently seeking professional opportunities and connections. contact me via LinkedIn or email at ridhoalamsyahcilik@gmail.com
