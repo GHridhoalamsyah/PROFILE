@@ -8,6 +8,26 @@
 💡 Interested in combining technology and public policy for data-driven decision making  
 🤝 Open to collaboration in Data Analysis, Research Projects, and Social Data Visualization  
 📫 How to reach me: your-email@gmail.com  
+---
+
+## WORKING EXPERIENCE 
+
+1. PT Nawa Teknologi Mandiri (Nawatech) | Data Engineer | Tangerang Feb'2025 - Now
+- ETL (Airflow): Built and scheduled ETL pipelines using Apache Airflow to extract data from SQL and NoSQL sources, apply similarity matching using FAISS and ML models, and load into Oracle Database.
+- Data Pipeline: Built and scheduled pipeline using AWS Glue Notebook to transform and load data from S3 bucket into PostgreSQL.
+- Minio (Non-tabular Data Migration): Migrated large-scale non-tabular files from local servers to MinIO object storage using custom Python scripts for efficient data access and storage.
+- Monitoring Fabric: Implemented monitoring systems to ensure data quality, track pipeline performance, and detect anomalies across distributed data sources.
+- Crawling Enginee Apify: Developed and maintained crawlers using Apify to collect public data from multiple social media platforms for analysis and enrichment.
+Elasticsearch: Loaded logs and summary tracking data into Elasticsearch for real-time search, monitoring, and analytics.
+
+
+3. PT Inovasi Niaga Integrasi (Waizly) | Data Engineer | Tangerang Aug'2024 - Feb'2025
+- ETL (Pentaho): Managing the Extract, Transform, Load process using Pentaho to ensure clean and ready-touse product data in the data warehouse.
+- PostgreSQL: Storing and managing product data in a structured and easily accessible database for analysis.
+- Database Designing: Designing optimal database schemas for efficient querying and data analysis of product warehouses.
+- Cloud AWS: Using AWS to securely manage and store data with scalability and integration.
+- Airflow: Automating and monitoring ETL pipelines regularly to ensure up-to-date data.
+- Cloud AWS: Using AWS to securely manage and store data with scalability and integration.
 
 ---
 
